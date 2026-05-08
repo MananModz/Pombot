@@ -1,0 +1,7 @@
+requests
+aiohttp
+flask
+pyTelegramBotAPI
+python-telegram-bot
+pyrogram
+tgcrypto
